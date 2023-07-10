@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5836818322363474841}
   - component: {fileID: 6126756886036181851}
   m_Layer: 0
-  m_Name: BasicExplosionVFXGraph
+  m_Name: BasicExplosionsVFXGraph
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -143,7 +143,7 @@ Transform:
   m_Children:
   - {fileID: 635198607189777008}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &5296144986698764818
 AudioSource:
